@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Brian Blackstone    obsian@gmail.com 
 
 # THANKS
 
